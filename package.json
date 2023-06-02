@@ -9,6 +9,7 @@
   "type": "module",
   "exports": {
     ".": {
+      "default": "./dist/index.js",
       "import": "./dist/index.js",
       "require": "./dist/index.cjs"
     }
@@ -28,6 +29,6 @@
   "homepage": "https://github.com/wingsico/wingsico#readme",
   "devDependencies": {
     "tsup": "^6.7.0",
-    "unbuild": "^1.2.1"
+    "typescript": "^5.0.4"
   }
 }

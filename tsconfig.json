@@ -2,7 +2,6 @@
   "compilerOptions": {
     "target": "ESNext",
     "module": "ESNext",
-    "declaration": true,
-    "moduleResolution": "nodenext"
+    "declaration": true
   }
 }
